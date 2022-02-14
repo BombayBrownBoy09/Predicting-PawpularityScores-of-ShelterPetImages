@@ -2,6 +2,9 @@
 Kaggle Competition
 https://www.kaggle.com/c/petfinder-pawpularity-score/overview
 
+Image Data
+https://www.kaggle.com/c/petfinder-pawpularity-score/data
+
 # Scores 
 Metric - Root Mean Square Error
 
