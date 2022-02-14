@@ -1,8 +1,8 @@
 # Predicting-Pawpularity-Scores-of-Pet-Images
-Kaggle Competition
+Kaggle Competition:
 https://www.kaggle.com/c/petfinder-pawpularity-score/overview
 
-Image Data
+All Data available at: 
 https://www.kaggle.com/c/petfinder-pawpularity-score/data
 
 # Scores 
